@@ -1,0 +1,14 @@
+#TITLE {
+    /* display: flex; */
+}
+#SUBTITLE {
+    display: flex;
+}
+#PRESENTED {
+    display: flex;
+    margin-inline: 10px;
+}
+.body {
+    margin: 25px;
+    padding: 20px;
+}
